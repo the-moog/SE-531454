@@ -18,5 +18,6 @@ Repository: [https://github.com/the-moog/SE-531454](https://github.com/the-moog/
 Feel free to fork and modify though I'd be happy to accept improvements and suggestions.
 
 
-![LTSpice Circuit](assets/20250415_195727_Li-IonLTSpiceCircuit.png)
+![LTSpice Circuit](https://i.sstatic.net/wiiKQCDY.png)
+
 
