@@ -13,9 +13,11 @@ All credit to **Georgia Tech Analog and Power IC Design Lab** and the authors of
 
 By the-moog  April 2025
 
+See the video in assets folder for example use.
+
 Repository: [https://github.com/the-moog/SE-531454](https://github.com/the-moog/SE-531454)
 
-Feel free to fork and modify though I'd be happy to accept improvements and suggestions.
+Feel free to fork and modify. I'd be happy to accept improvements and suggestions.
 
 
 ![LTSpice Circuit](https://i.sstatic.net/wiiKQCDY.png)
