@@ -23,10 +23,9 @@ Feel free to fork and modify. I'd be happy to accept improvements and suggestion
 ![LTSpice Circuit](https://i.sstatic.net/wiiKQCDY.png)
 
 ## Change log
-
-1.0  April 2025		- Initial release
-1.1  July 2025      - Remove absolute path from symbol
-1.2  Oct 2025       - Add notes, more examples and plot configurations
+ - 1.0  April 2025		 - Initial release
+ - 1.1  July 2025      - Remove absolute path from symbol
+ - 1.2  Oct 2025       - Add notes, more examples and plot configurations
 
 
 
